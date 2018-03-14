@@ -36,11 +36,11 @@ git branch -d release1
 
 ## Tags
 git log  
-git tag 1.0 <commitId>  
+git tag 1.0 `<commitId>`   
 git push --tags origin  
 
 ## Rollback
-git reset --hard <commitid>  
+git reset --hard `<commitid>`    
 git reset --hard HEAD~1 --will get you back 1 commit  
 git reset --hard origin/master --ignore local changes  
 
