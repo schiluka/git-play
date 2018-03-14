@@ -1,3 +1,3 @@
-# playing around git branching
+# Playing around git branching
 
 useful commands
