@@ -1,5 +1,3 @@
-# Playing around git branching
-
 ## Useful commands
 
 ## Basic
